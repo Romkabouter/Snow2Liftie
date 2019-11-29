@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Snow2Liftie</string>
+    <string name="default_refresh">0</string>
+    <string name="default_range">1</string>
+    <string name="noresort_content">No resort chosen yet, press center button to choose</string>
+    <string name="noresort_center_button">Resort</string>
+    <string name="noresort_center_settings">Settings</string>
+    <string name="refresh_icon">Refresh</string>
+</resources>
