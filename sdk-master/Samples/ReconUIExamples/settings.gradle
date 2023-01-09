@@ -1,0 +1,3 @@
+include ':reconUIExamples'
+include ':reconUI'
+project(':reconUI').projectDir = new File('../../libraries/reconUI')
